@@ -2,7 +2,7 @@
 Hello! i am chriss#0404 and i making a discord giveaway bot..
 
 # How Do i add to my server?
-Link will be here soon
+https://discord.com/api/oauth2/authorize?client_id=821534704548577320&permissions=8&scope=bot
 
 # Commands.
 
