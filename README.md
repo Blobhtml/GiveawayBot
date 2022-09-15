@@ -30,6 +30,3 @@ Subject: Testing
 
 # Help Page
 Link will be here soon
-
-
-theme: Hacker
