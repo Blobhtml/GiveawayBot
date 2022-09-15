@@ -1,5 +1,4 @@
 # GiveawayBot
-theme: Hacker
 Hello! i am chriss#0404 and i making a discord giveaway bot..
 
 # How Do i add to my server?
@@ -31,3 +30,6 @@ Subject: Testing
 
 # Help Page
 Link will be here soon
+
+
+theme: Hacker
