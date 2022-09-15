@@ -6,13 +6,13 @@ https://discord.com/api/oauth2/authorize?client_id=821534704548577320&permission
 
 # Commands.
 
-Prefix: !
+Prefix: ?
 
 
 Command List
 
 
-Start: g!start-giveaway
+Start: ?start
 
 
 Select Channel: #Channel
@@ -25,6 +25,8 @@ Winners: 1,2,3,4,5
 
 
 Subject: Testing
+
+Ex: ?start #giveaway 1h 1 Test Test
 
 
 
